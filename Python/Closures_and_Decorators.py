@@ -1,6 +1,8 @@
-# A decorator is just a callable that takes a function as an argument
+###Closure
+#       Py violates Variable scoping :p
+###Decoratos
+#       A decorator is just a callable that takes a function as an argument
 #and returns a replacement function. 
-#
 #
 ######1.Standardize Mobile number using Decorators
 '''
