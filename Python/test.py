@@ -1,5 +1,5 @@
 import wx
-
+# hello
 # Create a .png image with something drawn on a white background
 # and put the path to it here.
 IMAGE_PATH = "P:\\w.png"
